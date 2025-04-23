@@ -11,5 +11,8 @@ Technologies Used
 - Python
 - OpenCV
 - MediaPipe (Pose + Hands detection)
-
+```bash
+pip install opencv-python mediapipe numpy
+python virtual_tryon.py
+```
 Make sure all images are placed in the same folder as the script.
